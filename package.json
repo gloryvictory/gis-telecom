@@ -1,0 +1,21 @@
+{
+  "name": "gis-telecom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Vyacheslav.Zamaraev",
+  "license": "MIT",
+  "dependencies": {
+    "ol": "7.2.1",
+    "ol-layerswitcher": "^4.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "latest",
+    "vite": "latest"
+  },
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  }
+}

@@ -1,0 +1,33 @@
+
+МТС
+Система координат EPSG:3395 - WGS 84 / World Mercator
+2g https://tiles.qsupport.mts.ru/g2_New/{z}/{x}/{y}.png
+3g https://tiles.qsupport.mts.ru/g3_New/{z}/{x}/{y}.png
+4g https://tiles.qsupport.mts.ru/lte_New/{z}/{x}/{y}.png
+LTE https://tiles.qsupport.mts.ru/lte_New/{z}/{x}/{y}.png
+
+Мегафон
+Система координат EPSG:3395 - WGS 84 / World Mercator
+2g https://coverage-map.megafon.ru/2g/{z}/{x}/{y}.png
+3g https://coverage-map.megafon.ru/3g/{z}/{x}/{y}.png
+4g https://coverage-map.megafon.ru/lte/{z}/{x}/{y}.png
+
+ТЕЛЕ2
+Система координат EPSG:3857 - WGS 84 / Pseudo-Mercator
+2g https://smolensk.tele2.ru/maps/_2g/{z}/{x}/{y}.png
+3g https://smolensk.tele2.ru/maps/_3g/{z}/{x}/{y}.png
+4g https://smolensk.tele2.ru/maps/_4g/{z}/{x}/{y}.png
+
+Ростелеком
+Система координат EPSG:3857 - WGS 84 / Pseudo-Mercator
+2g https://rt-static-cdn.rt.ru/maps/2g/{z}/{x}/{y}.png
+3g https://rt-static-cdn.rt.ru/maps/3g/{z}/{x}/{y}.png
+4g https://rt-static-cdn.rt.ru/maps/4g/{z}/{x}/{y}.png
+
+Билайн (Вымпелком)
+Система координат EPSG:3857 - WGS 84 / Pseudo-Mercator
+2g https://static.beeline.ru/upload/tiles/2G/current/{z}/{x}/{y}.png
+3g https://static.beeline.ru/upload/tiles/3G/current/{z}/{x}/{y}.png
+4g https://static.beeline.ru/upload/tiles/4G/current/{z}/{x}/{y}.png
+
+Тип подключения: XYZ Tiles
